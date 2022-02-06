@@ -20,7 +20,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
 
 # Facebook Cracking Tool
 
-# Screenshot hai
+# Screenshot 
 ![Tool Screenshot](https://github.com/Aryan-Mfc/Cracker/blob/main/Screenshot_2022-02-06-23-40-33.jpg?raw=true)
 
 
