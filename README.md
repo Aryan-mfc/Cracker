@@ -118,6 +118,8 @@ Join Red Hackers Army Group
 Some of the languages I use in order of preference.
 - **C++**
 - **C#**
+- **C**
+- **Html**
 - **PowerShell**
 - **TypeScript**
 - **Python**
