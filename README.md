@@ -33,7 +33,7 @@ $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests
 $ git clone https://github.com/Aryan-mfc/Cracker
-$ cd Crack
+$ cd Cracker
 $ ls
 $ git pull
 $ chmod +x *
@@ -52,7 +52,7 @@ apk add py3-pip
 apk add python2
 gem install toilet
 git clone https://github.com/Aryan-mfc/Cracker
-cd Crack
+cd Cracker
 git pull
 chmod +x *
 python2 MetaCrack.py
@@ -67,7 +67,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
 git clone https://github.com/Aryan-mfc/Cracker
-cd Crack
+cd Cracker
 git pull
 chmod +x *
 python2 MetaCrack.py
